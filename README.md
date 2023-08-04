@@ -4,6 +4,12 @@ A secure P2P-based VPN that enables users around the world to connect to each ot
 ## Contribute today, help the world!
 You can contribute by adding, improving, and correcting features. Make SuitPlague even better! Create a pull-request, with beneficial changes, and it's sure to be approved and added. When you contribute, you enable the evolution of many projects around the world that depend on SuitPlague. Our project is open-source.
 
+## How to install
+To install, you can download the .ZIP manually here from Github, or make a clone (recommended):
+```bash
+gh repo clone NervousGroove/SuitPlague
+```
+
 ## 💸 Donate today! Help this project stay alive
 You can help/support this project/repository and help SwankyNoob maintain this and all other amazing projects of our developer, with any amount of ETH! The existence of this project depends on you, donate today! No matter the amount, every donation helps a lot! OUR ADDRESS TO RECEIVE ETHEREUM (METAMASK):
 ```text
