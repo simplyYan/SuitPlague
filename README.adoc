@@ -1,22 +1,22 @@
-= SuitPlague: A Modern and Lightweight CSS Framework
+= 🕯 SuitPlague: A Modern and Lightweight CSS Framework
 
 [.author]
 By SwankyNoob
 
 SuitPlague is an easy-to-use, fast, beautiful, and JavaScript-based CSS framework created by developer SwankyNoob. With a focus on simplicity and efficiency, SuitPlague allows developers to create elegant and modern interfaces with ease.
 
-== Objectives
+== 🎯 Objectives
 
 The primary mission of SuitPlague is to simplify the process of styling web pages, providing a set of pre-defined and flexible styles that can be easily applied to HTML elements. At the same time, SuitPlague aims to maintain lightness and performance, ensuring that websites continue to load quickly.
 
-== Advantages
+== 🤯 Advantages
 
 * Easy to use: SuitPlague is designed with a simple and intuitive API, enabling even novice developers to apply styles effectively.
 * Fast: With optimization in mind, SuitPlague keeps loading speed in check, ensuring a fast and responsive user experience.
 * Beautiful and Modern: SuitPlague offers modern and attractive styles that can significantly enhance the design of any website.
 * Open-source: SuitPlague is an open-source framework, allowing the community to contribute, provide feedback, and help improve the project.
 
-== Features
+== ⚔️ Features
 
 * Comprehensive set of pre-defined styles for various HTML elements such as buttons, inputs, cards, navigation bars, and more.
 * Flexible customization: The "plague" class allows you to customize styles according to your needs.
@@ -24,7 +24,7 @@ The primary mission of SuitPlague is to simplify the process of styling web page
 * Simple installation via CDN: You can quickly start using SuitPlague by adding the JavaScript file link to your project.
 * Detailed documentation: Full documentation and examples are available in the official GitHub repository.
 
-== Installation
+== 📦 Installation
 
 To start using SuitPlague in your project, follow these simple steps:
 
@@ -37,7 +37,7 @@ To start using SuitPlague in your project, follow these simple steps:
 
 2. Now you can use SuitPlague's classes and styles in your HTML elements.
 
-== Contributions
+== 🔌 Contributions
 
 SuitPlague is an open-source project, and we encourage the community to contribute feedback, suggestions, and improvements. Feel free to submit pull requests and report issues in the official GitHub repository.
 
