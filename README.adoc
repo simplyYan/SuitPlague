@@ -1,7 +1,7 @@
 = SuitPlague: A Modern and Lightweight CSS Framework
 
 [.author]
-SwankyNoob <email@example.com>
+By SwankyNoob
 
 SuitPlague is an easy-to-use, fast, beautiful, and JavaScript-based CSS framework created by developer SwankyNoob. With a focus on simplicity and efficiency, SuitPlague allows developers to create elegant and modern interfaces with ease.
 
