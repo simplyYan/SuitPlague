@@ -42,4 +42,4 @@ To start using SuitPlague in your project, follow these simple steps:
 SuitPlague is an open-source project, and we encourage the community to contribute feedback, suggestions, and improvements. Feel free to submit pull requests and report issues in the official GitHub repository.
 
 [.source]
-More details and complete documentation: https://github.com/NervousGroove/SuitPlague
+More details and complete documentation: https://github.com/NervousGroove/SuitPlague/wiki/Documentation
