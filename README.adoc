@@ -30,7 +30,7 @@ To start using SuitPlague in your project, follow these simple steps:
 
 1. Add the following link to the header of your HTML file:
 
-[source]
+[html]
 ----
 <script src="https://cdn.jsdelivr.net/gh/NervousGroove/SuitPlague@main/SuitPlague.js"></script>
 ----
